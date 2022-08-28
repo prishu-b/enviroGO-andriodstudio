@@ -1,5 +1,5 @@
 # enviroGO-andriodstudio
-
+The code in this github is for the map and adding volunteer opportunities from the database onto the map so that users can see the opportunities.
 
 Firebase database contents: 
 {
