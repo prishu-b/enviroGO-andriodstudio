@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "968963755095",
+    "firebase_url": "https://test-7db84-default-rtdb.firebaseio.com",
+    "project_id": "test-7db84",
+    "storage_bucket": "test-7db84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968963755095:android:067cc353f2742536f1e712",
+        "android_client_info": {
+          "package_name": "com.prisha.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968963755095-0umu699jdf8mlfag9g8ul3kqueepote8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSTPnYtYm5625kktZ6vrZrTM-_hqBbJgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968963755095-0umu699jdf8mlfag9g8ul3kqueepote8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
